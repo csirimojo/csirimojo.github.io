@@ -3750,6 +3750,15 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   font-size: 18px;
   line-height: 20px;
 }
+#logo{
+    
+    position: fixed;
+    top: 40;
+    left: 3;
+    width: 45px;
+    
+}
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
@@ -5646,6 +5655,16 @@ button.close {
 .modal-footer:after {
   clear: both;
 }
+
+.service-desc-text{
+    
+    text-align: left;
+    font-family: open sans,sans-serif;
+    
+    
+}
+
+
 .center-block {
   display: block;
   margin-right: auto;
