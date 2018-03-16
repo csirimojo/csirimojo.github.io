@@ -3753,9 +3753,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 #logo{
     
     position: fixed;
-    top: 40;
+    top: 1;
     left: 3;
-    width: 45px;
+    height: 40px;
     
 }
 
@@ -5655,6 +5655,15 @@ button.close {
 .modal-footer:after {
   clear: both;
 }
+
+.service-box{
+
+padding-left: 100px;
+padding-right: 100px;
+
+
+}
+
 
 .service-desc-text{
     
