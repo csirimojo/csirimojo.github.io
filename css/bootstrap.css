@@ -736,6 +736,9 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  
+  /*Ezt a sort én írtam be:*/
+  font-family: open sans,sans-serif;
 }
 @media (min-width: 768px) {
   .container {
@@ -5664,7 +5667,7 @@ padding-right: 100px;
 
 }
 
-
+/*Ezt én írtam be*/
 .service-desc-text{
     
     text-align: left;
@@ -5673,12 +5676,7 @@ padding-right: 100px;
     
 }
 
-.subtitle{
 
-   font-family: open sans,sans-serif;
-
-
-}
 
 .center-block {
   display: block;
