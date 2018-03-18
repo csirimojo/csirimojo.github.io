@@ -5731,6 +5731,17 @@ td.visible-xs {
   tr.visible-xs {
     display: table-row !important;
   }
+  
+  /*mobil problemara megoldas*/
+  
+  .service-box{
+
+padding-left: 0px;
+padding-right: 0px;
+
+
+}
+  
   th.visible-xs,
   td.visible-xs {
     display: table-cell !important;
