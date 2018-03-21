@@ -5684,6 +5684,21 @@ padding-right: 100px;
 
 }
 
+.book-parameters{
+ padding-left: 0px;
+ padding-right: 0px;
+
+}
+
+.book-parameters-left-pad  {
+ padding-left: 15px
+}
+/*
+.book-parameters-left-pad  p{
+  font-size: 12px;
+ line-height: 1.428;
+}*/
+
 
 .center-block {
   display: block;
