@@ -5754,7 +5754,7 @@ td.visible-xs {
     display: table-row !important;
   }
   
-  /*mobil problemara megoldas*/
+  /*en irtam mobil problemara megoldas*/
   
   .service-box{
 
@@ -5763,6 +5763,18 @@ padding-right: 0px;
 
 
 }
+  
+  .book-parameters-left-pad  {
+ padding-left: 0px
+}
+  
+  .booktitle{
+  font-size: 12px;
+ line-height: 1.428;
+  
+  
+  
+  }
   
   th.visible-xs,
   td.visible-xs {
