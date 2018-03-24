@@ -3762,6 +3762,23 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     
 }
 
+#facebooklogo{
+    
+    
+    top: 0px;
+    right: 30px;
+    height: 20px;
+    
+}
+/*
+.navbar-nav > li > a {
+
+ right:40px;
+
+
+}
+*/
+
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
